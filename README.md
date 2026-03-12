@@ -1,4 +1,3 @@
-# pixel-playz14-portfolio
 # skript: 03/23/2025
 # Python: 03/04/2026
 
