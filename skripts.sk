@@ -1,7 +1,0 @@
-# chatgames
-
-function():
-  set {_i} to integer between 1 and 5:
-    if {_i} = 1:
-      set {chatgame::answer} to "minecraft"
-      set {chatgame::scramble} to "inemcrtaf"
