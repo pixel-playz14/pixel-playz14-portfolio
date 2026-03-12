@@ -1,4 +1,4 @@
-# chatgames
+// chatgames
 function chatgames():
   delete {chatgame::*}
   set {_i} to integer between 1 and 5:
